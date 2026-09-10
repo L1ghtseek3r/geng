@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "downloadUrl": "https://github.com/L1ghtseek3r/geng/releases/download/v1.0.1/geng-1.0.1.jar",
-  "sha256": "2500777312b41406e3ba166918ffa0770e11b7c8b967206d1274b85d13702ae6",
+  "version": "1.1.0",
+  "downloadUrl": "https://github.com/L1ghtseek3r/geng/releases/download/v1.1.0/geng-1.1.0.jar",
+  "sha256": "749A7DACD3C7D40F1F7C789D5A42A0A9E2DC9E4CE363266B338E405F3513B38E",
   "minecraftVersion": "1.20.1",
   "loader": "forge"
 }
